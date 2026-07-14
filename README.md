@@ -29,3 +29,21 @@ Este núcleo desarrolla la solución de problemas que requieren repetir instrucc
 ### 3. Estructuras contenedoras de información
 
 Este núcleo aborda el almacenamiento, recorrido y procesamiento de conjuntos de datos mediante estructuras contenedoras. Se diseñan soluciones para registrar, consultar, modificar y analizar información utilizando las estructuras de datos básicas disponibles en Java.
+
+## Evaluaciones parciales
+
+Las evaluaciones parciales del curso se realizarán en las siguientes fechas:
+
+| **Actividad evaluativa** | **Semana** | **Fecha** | **Supletorio** | **Porcentaje** |
+|:------------------------:|:----------:|:---------:|:--------------:|:--------------:|
+| **Parcial 1** | 6 | 8 de septiembre de 2026 | 15 de septiembre de 2026 | 25 % |
+| **Parcial 2** | 11 | 13 de octubre de 2026 | 20 de octubre de 2026 | 25 % |
+| **Parcial 3** | 15 | 10 de noviembre de 2026 | 17 de noviembre de 2026 | 25 % |
+| **Seguimiento** | Durante el semestre | Permanente y sin previo aviso | — | 25 % |
+| **Total del curso** | — | — | — | **100 %** |
+
+### Habilitación
+
+| **Actividad** | **Semana** | **Fecha** |
+|:-------------:|:----------:|:---------:|
+| **Habilitación** | 17 | 24 de noviembre de 2026 |
