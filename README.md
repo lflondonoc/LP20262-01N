@@ -47,3 +47,13 @@ Las evaluaciones parciales del curso se realizarán en las siguientes fechas:
 | **Actividad** | **Semana** | **Fecha** |
 |:-------------:|:----------:|:---------:|
 | **Habilitación** | 17 | 24 de noviembre de 2026 |
+
+## Contenido del repositorio
+En este repositorio se publicarán progresivamente:
+
+-Materiales y ejemplos desarrollados durante las clases.
+-Ejercicios de aplicación.
+-Talleres individuales y grupales.
+-Proyectos y casos de estudio.
+
+Este repositorio tiene fines académicos y sirve como apoyo para el desarrollo de las actividades del curso Lógica de Programación durante el periodo 2026-2.
